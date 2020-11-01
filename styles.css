@@ -1,0 +1,21 @@
+button{
+   
+    font-size: 16px;
+    padding-top: 10%;
+    
+}
+
+label{
+    padding: 10px;
+    
+}
+
+form{
+    padding: 15px;
+
+}
+body {
+    background-image: url("fondo.jfif");
+    background-size: cover;
+
+  }
